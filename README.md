@@ -1,4 +1,4 @@
-## 使用 React 做一個球鞋商城
+## 使用 React 做一個商城網站
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

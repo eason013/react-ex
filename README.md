@@ -1,4 +1,5 @@
-使用 React 去建構一個球鞋商城網站
+使用 React 去做一個球鞋販售網站
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
